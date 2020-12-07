@@ -1,1 +1,1 @@
-# getaliks-site
+# official website for getaliks
